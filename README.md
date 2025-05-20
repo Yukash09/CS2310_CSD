@@ -5,6 +5,9 @@
 This project implements the logic for a simple 3x3 Tic-Tac-Toe game in Verilog, using modular design principles. Each square (cell) on the board is represented using flip-flop based state machines, and the system tracks player turns and winning conditions.
 
 ---
+<p align="center">
+  <img src="images/game_diagram.png" alt="Game Board Layout" width="300"/>
+</p>
 
 ## Modules
 

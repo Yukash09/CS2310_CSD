@@ -6,7 +6,7 @@ This project implements the logic for a simple 3x3 Tic-Tac-Toe game in Verilog, 
 
 ---
 <p align="center">
-  <img src="images/game_diagram.png" alt="Game Board Layout" width="300"/>
+  <img src="images/Screenshot 2025-05-20 182935.png" alt="Game Board Layout" width="900"/>
 </p>
 
 ## Modules
